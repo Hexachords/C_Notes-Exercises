@@ -80,8 +80,16 @@ int main(){
 
 ```
 
+-   _Int ("%d"):_ 32 Bit integer
+-   _Long ("%ld"):_ 64 bit integer
+-   _Char ("%c"):_ Character type
+-   _Float ("%f"):_ 32 bit real value
+-   _Double ("%lf"):_ 64 bit real value
+
 **User input**
 cin is used to get input >>
+
+scanf and printf are faster
 
 ```C++
 #include <iostream>
