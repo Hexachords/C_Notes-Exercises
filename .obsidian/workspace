@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02-input-and-sum.md",
+            "file": "C++ fundamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-input-and-sum.md",
+                "file": "C++ fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "C++ fundamentals.md",
     "02-input-and-sum.md",
     "01-hello world.md",
-    "C++ fundamentals.md",
     "README.md"
   ]
 }

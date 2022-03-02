@@ -79,6 +79,7 @@ int main(){
 }
 
 ```
+
 **User input**
 cin is used to get input >>
 
@@ -93,8 +94,44 @@ int main(){
 	
 	cin >> num; // Takes input from console
 
-
-
 }
 
+```
+
+**Arithmetic Operators**
+![[Pasted image 20220302121155.png]]
+
+**Assigment operators**
+
+
+```C++
+x += 4; // equivalent to x = x + 4
+x -= 5; // equivalent to x = x - 5
+
+
+x++ // equal to x=x+1
+x-- // equal to x=x-1
+
+	
+	
+++x; // prefix  
+x++; // postfix
+
+```
+
+**Prefix** increments the value, and then proceeds with the expression.  
+```C++
+x = 5;  
+y = **++x**;  
+// x is 6, y is 6
+
+```
+
+
+**Postfix** evaluates the expression and then performs the incrementing.
+
+```C++
+x = 5;  
+y = **x++**;  
+// x is 6, y is 5
 ```
