@@ -35,11 +35,66 @@ endl  or \n is used to create a new line
 using namespace std;
 
 int main(){
-cout << "This will create a new line" <<endl;
-cout << "below the previous statement \n";
-cout << "FIN" ;
+	cout << "This will create a new line" <<endl;
+	cout << "below the previous statement \n";
+	cout << "FIN" ;
 return 0;
 }
 
+```
+
+**Coments**
+// is used to create a single line comment
+/* */ is used to create multiline comments
+```C++
+#include <iostream>
+using namespace std;
+
+// single line comment
+/*
+
+Multi-Line
+Comments
+
+*/
+
+```
+
+**Variables**
+require a data type for the variable before it is declared
+```C++
+#include <iostream>
+using namespace std;
+int main(){
+	int myNum = 9;
+	int numA,numB; // declare multiple variables
+	numA = 5;
+	numB = 8; 
+	
+	
+	int sum = myNum *2 ;
+	
+	cout << sum; // Prints sum
+	return 0;
+}
+
+```
+**User input**
+cin is used to get input >>
+
+```C++
+#include <iostream>
+using namespace std;
+
+int main(){
+	int num; // Declare variable num
+	
+	cout << "Enter a number or perish \n" // sends prompt to the console
+	
+	cin >> num; // Takes input from console
+
+
+
+}
 
 ```
