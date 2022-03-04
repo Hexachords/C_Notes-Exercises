@@ -178,15 +178,15 @@ for (int x = 1; x < 10; x++) {
 **Switch Case**
 ```C++
 switch (expression) {  
-**case** value1:  
-statement(s);  
-**break;**  
-**case** value2:  
-statement(s);  
-**break;**  
+case value1:  
+	statement(s);  
+	break;  
+case value2:  
+	statement(s);  
+	break;  
 ...  
-**case** valueN:  
-statement(s);  
-**break;**  
+case value99:  
+	statement(s);  
+	break;  
 }
 ```
