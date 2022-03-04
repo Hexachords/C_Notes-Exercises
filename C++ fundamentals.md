@@ -145,9 +145,12 @@ y = **x++**;
 ```
 
 **Loops*
-```
+```C++
 if (condition) {  
-	statements  
+	//statements  
+}
+else {
+	//statements  
 	}
 
 ```
