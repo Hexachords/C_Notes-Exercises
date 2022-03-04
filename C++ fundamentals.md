@@ -143,3 +143,11 @@ x = 5;
 y = **x++**;  
 // x is 6, y is 5
 ```
+
+**Loops*
+```
+if (condition) {  
+	statements  
+	}
+
+```

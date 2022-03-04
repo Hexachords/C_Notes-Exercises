@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03-train-trip.md",
+            "file": "C++ fundamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-train-trip.md",
+                "file": "C++ fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
-    "03-train-trip.md",
-    "02-input-and-sum.md",
     "C++ fundamentals.md",
+    "02-input-and-sum.md",
     "01-hello world.md",
+    "03-train-trip.md",
     "README.md"
   ]
 }
