@@ -144,7 +144,7 @@ y = **x++**;
 // x is 6, y is 5
 ```
 
-**Loops*
+**While/if/Else Loops**
 ```C++
 if (condition) {  
 	//statements  
@@ -153,4 +153,26 @@ else {
 	//statements  
 	}
 
+while (condition) {  
+	//statement(s);  
+}
+
+do {  
+	statement(s);  
+} 
+while (condition); 
+
 ```
+
+**For Loop**
+
+```C++
+for ( init; condition; increment ) {  
+	statement(s);  
+	}
+for (int x = 1; x < 10; x++) {  
+	// some code  
+	}
+```
+
+**Switch Case**
