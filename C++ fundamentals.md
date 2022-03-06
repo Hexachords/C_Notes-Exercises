@@ -192,3 +192,6 @@ switch (expression) {
 		cout <<"Default case if no others are met" ;
 }
 ```
+
+**Logic Operators**
+![[Pasted image 20220305201147.png]]
