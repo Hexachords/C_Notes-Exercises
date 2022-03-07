@@ -195,3 +195,5 @@ switch (expression) {
 
 **Logic Operators**
 ![[Pasted image 20220305201147.png]]
+
+**Data types**

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04-Countdown.md",
+            "file": "C++ fundamentals.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11c70523438d66e0",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Countdown.md",
+                "file": "C++ fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +88,9 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
-    "04-Countdown.md",
     "C++ fundamentals.md",
-    "Pasted image 20220305201147.png",
+    "04-Countdown.md",
+    "images/Pasted image 20220305201147.png",
     "README.md",
     "02-input-and-sum.md",
     "01-hello world.md",
