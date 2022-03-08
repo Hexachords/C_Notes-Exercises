@@ -197,3 +197,12 @@ switch (expression) {
 ![[Pasted image 20220305201147.png]]
 
 **Data types**
+**Integers** (whole numbers), such as -7, 42.  
+**Floating point** numbers, such as 3.14, -42.67.
+**Characters** are single letters or symbols, and must be enclosed between **single quotes**, like 'a', 'b', etc.
+Boolean data type returns just two possible values: **true** (1) and **false** (0).
+
+**signed**: A signed integer can hold both negative and positive numbers.  
+**unsigned**: An unsigned integer can hold only positive values.  
+**short**: Half of the default size.  
+**long**: Twice the default size.
