@@ -210,3 +210,11 @@ Boolean data type returns just two possible values: **true** (1) and **false** (
 a **float** is 4 bytes,
 a **double** is 8, 
 a **long double** can be equivalent to a double (8 bytes), or 16 bytes
+
+**ARRAYS**
+```C++
+
+int b[5] = {11, 45, 62, 70, 88};
+
+// b[2] = 62
+```
