@@ -212,6 +212,7 @@ a **double** is 8,
 a **long double** can be equivalent to a double (8 bytes), or 16 bytes
 
 **ARRAYS**
+Arrays are used to hold multiple bytes of information
 ```C++
 
 int b[5] = {11, 45, 62, 70, 88};
