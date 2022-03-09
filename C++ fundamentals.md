@@ -219,3 +219,20 @@ int b[5] = {11, 45, 62, 70, 88};
 
 // b[2] = 62
 ```
+**Multi-Dimensional Arrays**
+```C++
+// type name[size1][size2]...[sizeN];
+int x[3][4];
+
+
+int x[2][3] = {  
+{2, 3, 4}, // 1st row  
+{8, 9, 10} // 2nd row  
+		};
+//or 
+
+int x[2][3] = {{2, 3, 4}, {8, 9, 10}};
+
+```
+
+**Pointers**
