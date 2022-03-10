@@ -79,7 +79,11 @@ int main(){
 }
 
 ```
+const is used to create constant variables that can't be modified 
 
+```cpp
+const int number = 10;
+```
 -   _Int ("%d"):_ 32 Bit integer
 -   _Long ("%ld"):_ 64 bit integer
 -   _Char ("%c"):_ Character type

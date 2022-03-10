@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ fundamentals.md",
+            "file": "05-conversions.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11c70523438d66e0",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ fundamentals.md",
+                "file": "05-conversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +89,8 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "05-conversions.md",
     "C++ fundamentals.md",
-    "05-itteration.md",
     "04-Countdown.md",
     "images/Pasted image 20220305201147.png",
     "README.md",
