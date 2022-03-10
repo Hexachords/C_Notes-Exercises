@@ -236,3 +236,14 @@ int x[2][3] = {{2, 3, 4}, {8, 9, 10}};
 ```
 
 **Pointers**
+A **pointer** is a variable, and like any other variable, it must be declared before you can work with it.  
+The **asterisk** sign is used to declare a pointer (the same asterisk that you use for multiplication), however, in this statement the asterisk is being used to designate a variable as a pointer.
+```C++
+& // used to denote an address in memory
+	
+	
+int *ip; // pointer to an integer  
+double *dp; // pointer to a double  
+float *fp; // pointer to a float  
+char *ch; // pointer to a character	
+```
