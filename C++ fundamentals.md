@@ -168,6 +168,8 @@ while (condition);
 
 ```
 
+![[Pasted image 20220312134853.png]]
+
 **For Loop**
 
 ```C++

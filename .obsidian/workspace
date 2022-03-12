@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06-time-translation.md",
+            "file": "07-alphabet-checks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-time-translation.md",
+                "file": "07-alphabet-checks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "07-alphabet-checks.md",
+    "05-conversions.md",
+    "03-train-trip.md",
+    "04-Countdown.md",
     "06-time-translation.md",
     "C++ fundamentals.md",
-    "05-conversions.md",
-    "04-Countdown.md",
     "images/Pasted image 20220305201147.png",
     "README.md",
     "02-input-and-sum.md",
-    "01-hello world.md",
-    "03-train-trip.md"
+    "01-hello world.md"
   ]
 }
