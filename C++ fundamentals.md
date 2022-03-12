@@ -251,3 +251,5 @@ double *dp; // pointer to a double
 float *fp; // pointer to a float  
 char *ch; // pointer to a character	
 ```
+
+![[Pasted image 20220311152350.png]]

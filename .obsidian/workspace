@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05-conversions.md",
+            "file": "06-time-translation.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11c70523438d66e0",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-conversions.md",
+                "file": "06-time-translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,9 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
-    "05-conversions.md",
+    "06-time-translation.md",
     "C++ fundamentals.md",
+    "05-conversions.md",
     "04-Countdown.md",
     "images/Pasted image 20220305201147.png",
     "README.md",
