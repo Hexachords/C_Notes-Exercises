@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07-alphabet-checks.md",
+            "file": "09-prime-or-not.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-alphabet-checks.md",
+                "file": "09-prime-or-not.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "09-prime-or-not.md",
+    "08- decimal-to-binary.md",
     "07-alphabet-checks.md",
     "05-conversions.md",
     "03-train-trip.md",
@@ -95,8 +97,6 @@
     "06-time-translation.md",
     "C++ fundamentals.md",
     "images/Pasted image 20220305201147.png",
-    "README.md",
-    "02-input-and-sum.md",
-    "01-hello world.md"
+    "README.md"
   ]
 }
