@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10-grade-averge-sorter.md",
+            "file": "08- decimal-to-binary.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-grade-averge-sorter.md",
+                "file": "08- decimal-to-binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "08- decimal-to-binary.md",
     "10-grade-averge-sorter.md",
     "09-prime-or-not.md",
-    "08- decimal-to-binary.md",
     "07-alphabet-checks.md",
     "05-conversions.md",
     "03-train-trip.md",
