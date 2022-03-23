@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "11- factorial.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "11- factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "11- factorial.md",
     "README.md",
     "Untitled.md",
-    "11- factorial_.md",
     "08-decimal-to-binary.md",
     "10-grade-averge-sorter.md",
     "09-prime-or-not.md",
