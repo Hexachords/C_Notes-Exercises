@@ -255,3 +255,4 @@ char *ch; // pointer to a character
 ```
 
 ![[Pasted image 20220311152350.png]]
+![[Pasted image 20220323134439.png]]
