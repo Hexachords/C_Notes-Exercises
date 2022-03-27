@@ -7,8 +7,11 @@
         "id": "52b98df65aab9cfe",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "9.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "52b98df65aab9cfe",
   "lastOpenFiles": [
+    "9.md",
     "09-prime-or-not.md",
     "08-decimal-to-binary.md",
     "07-alphabet-checks.md",
@@ -92,7 +97,6 @@
     "11- factorial.md",
     "README.md",
     "10-grade-averge-sorter.md",
-    "05-conversions.md",
-    "03-train-trip.md"
+    "05-conversions.md"
   ]
 }
